@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X21MDJacM5WWjIKBgzxOWgyuTwPqeMdLp8jebBQ7EeiBDxAOXIdyODeoQx4NTMcGfHQ7lVXL5dMUSmiFxl+HMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iterra-LTD\\source\\repos\\ConsoleApp40\\ConsoleApp40.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iterra-LTD\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
